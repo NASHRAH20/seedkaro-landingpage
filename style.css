@@ -1,0 +1,247 @@
+.nav-add{
+    display: flex;
+}
+.nav-link{
+    margin-right: 15px;
+}
+.section{
+    display: grid;
+    background-color: rgb(219, 227, 227);
+    width: 100%;
+    border: 1px solid transparent;
+    border-top: 3px solid rgb(22, 180, 32) ;
+    /* grid-template-columns: 1fr; */
+    gap: 5px;
+}
+.col-lg-6{
+    padding: 20px;
+    border: 1px solid transparent;
+}
+#col1{
+    justify-content: center;
+    color:rgb(22, 180, 32) ;
+    font-size: x-large;
+    font-weight: 70%;
+    margin-top: 7%;
+}
+.header5{
+    color: black;
+    font-weight: 400;
+}
+.button{
+width: 32%;
+height: 20%;
+border-radius: 20px;
+border: 1px solid black;
+background-color: rgb(22, 180, 32);
+font-size: large;
+color: aliceblue;
+margin-top: 4%;
+}
+.feature{
+    text-align: center;
+    font-weight: 400;
+    font-size: x-large;
+    padding-top: 5%;
+    color:rgb(22, 180, 32) ;
+}
+.investment{
+    text-align: center;
+    font-weight: 500;
+    font-size: x-large;
+    color:rgba(0, 0, 0, 0.74)
+}
+.card1{
+    display: flex;
+    margin-left:7% ;
+    /* margin-right: 7%; */
+    gap: 20px; 
+}
+.For_Investor{
+   font-weight: 400;
+   font-size: 28px;
+   margin: 2% 0% 2% 7%;
+  
+}
+.section1{
+    display: grid;
+    background-color: whitesmoke;
+    border: 1px solid transparent;
+    gap: 2px;
+}
+.col-lg-4{
+    padding: 20px;
+    border: 1px solid transparent;
+    margin-left: 2%;
+    width: 30%;
+    border-radius: 5px;
+    background-color: white;
+}
+.img1{
+    margin-left: 22%;
+}
+.img2{
+    margin-left: 30%;
+    width: 20%;
+    background-color:rgb(22, 180, 32)  ;
+}
+.notes{
+    width: 20%;
+    margin-left: 30%;
+}
+.aboutus{
+    width: 85%;
+    margin-top: 24%;
+}
+.heading{
+    font-weight: 400;
+    margin-left: 14%;
+    font-size: xx-large;
+    margin-top: 15%;
+    text-align: center;
+}
+.seedkaro_para{
+    color: black;
+    font-size: large;
+    margin-left: 14%;
+}
+.container4{
+    margin-top: 7%;
+    border: 1px solid transparent;
+    background-color: rgb(219, 227, 227);
+}
+.button1{
+        width: 28%;
+        height: 6%;
+        border-radius: 20px;
+        border: 1px solid transparent;
+        background-color: rgb(22, 180, 32);
+        font-size: medium;
+        color: aliceblue;
+        margin-top: 4%;
+        margin-left: 36%;
+        
+}
+.our_clients{
+    font-size: xx-large;
+    font-weight: 400;
+    color:rgb(22, 180, 32) ;
+    text-align: center;
+    margin-top: 4%;
+}
+.container6{
+    display: grid;
+    background-color: rgb(219, 227, 227);
+    width: 100%;
+    border: 1px solid black;
+    gap: 5px;
+}
+.lorem_ipsum{
+    border: 1px solid transparent;
+    width: 30%;
+    margin-left: 10%;
+    padding: 2%;
+    margin-left: 17%;
+    background-color: whitesmoke;
+    border-radius: 5%;
+}
+.lorem_ipsum2{
+    border: 1px solid transparent;
+    width: 30%;
+    padding: 2%;
+    background-color: whitesmoke;
+    border-radius: 5%;
+    
+}
+.conversation{
+    display: flex;
+    gap: 5%;
+    margin-top: 3%;
+}
+.clients{
+    border: 1px solid transparent;
+    background-color: rgb(219, 227, 227);
+}
+.test1{
+    margin-top: 5%;
+    border-radius: 50%;
+    margin-left: 18%;
+}
+.williamson{
+    margin-left:5% ;
+    margin-top: 6%;
+}
+.test2{
+    margin-top: 5%;
+    border-radius: 50%;
+    margin-left: 18%;
+}
+.williamson2{
+    margin-left:5% ;
+    margin-top: 6%;
+}
+.address{
+    font-size: xx-large; 
+    margin-top: 4%;
+    color: whitesmoke;
+    margin-left: 8%;
+}
+.button2{
+    margin-top: 5%;
+    width: 11%;
+    margin-bottom: 5%;
+    margin-left: 22%;
+    border-radius:20px;
+    border: 1px solid transparent;
+}
+.paragraph{
+    margin: 4% 8% 5% 8%;
+}
+.nav{
+    background-color: black;
+    color:rgb(22, 180, 32)  ;
+    
+}
+.img3{
+    margin-left:65% ;
+    justify-content: space-evenly;
+    margin-top: 0.6%;
+    margin-left: 62%;
+}
+#font-awesome{
+    margin-left: 2%;
+    margin-top: 1%;
+}
+.footer1{
+    margin-left: 2%;
+    margin-top: 0.6%;
+}
+.Sign_Up_Page{
+    font-size: xx-large;
+    margin: 4% 0% 2% 1%;
+    font-weight: 300;
+}
+.seedkaro{
+    margin-left: 8%;
+}
+.nav-add1{
+    display: flex;
+    margin-right: 10%;
+}
+.label{
+    border: 1px solid black;
+    background-color:white;
+    border-top: 3px solid rgb(22, 180, 32)  ;
+    background-image: url('image/banner2.jpg');
+    
+}
+.form{
+    border: 1px solid transparent;
+    background-color: whitesmoke;
+    margin: 5% 30% 4% 30% ;
+    text-align: center;
+    padding: 2% 0%;
+    width: 40%;
+    border-radius: 5px;
+   
+}
